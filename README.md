@@ -122,4 +122,4 @@ For educational and security research purposes only.
 ## 👤 Author
 
 **Om Awachar** — Security Analyst  
-HackerOne Hall of Fame × 2 | RBI-recognised Audit Quality | AI Security & LLM Red Teaming
+

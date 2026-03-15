@@ -1,0 +1,16 @@
+url,label
+https://paypal.com/login,0
+https://google.com,0
+https://github.com,0
+https://amazon.com,0
+http://paypal-secure-login.tk/verify/account,1
+http://192.168.1.1/login/paypal/secure,1
+http://amazon-update-account.ml/signin?redirect=true,1
+https://accounts.google.com.phishing-site.xyz/login,1
+http://secure-banking-login.click/account/verify?token=abc123,1
+https://microsoft.com/en-us/security,0
+http://signin-apple-id-locked.ga/verify,1
+https://netflix.com,0
+http://paypal.fake-secure.tk/@user:pass/login,1
+https://support.apple.com,0
+http://update-your-hdfc-account-now.top/secure/login,1
